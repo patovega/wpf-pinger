@@ -1,6 +1,6 @@
 # wpf-pinger
 
-WPF project for check a list of ip address each X seconds.
+WPF project for check ping response a list of ip address each X seconds.
 
 ![alt text](http://patovega.com/github/imagenes/wpf-pinger/pinger.jpg)
 
